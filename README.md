@@ -1,5 +1,5 @@
-# yh20
-# cclassification des images handwriting dans une basse de donnée Mnist
+# yassine el hachimi 
+# classification des images handwriting dans une basse de donnée Mnist
 #install lib
 pip install tensorflow
 pip install keras
